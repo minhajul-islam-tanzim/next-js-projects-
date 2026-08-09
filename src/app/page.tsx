@@ -3,7 +3,7 @@ import hero from "@/assets/hero.png"
 import HeroButtons from "@/components/HeroButtons"
 const Homepage = () => {
   return (
-   <div className="flex flex-col md:flex-row w-full mt-12 md:mt-20 items-center justify-center gap-6 md:gap-8 px-6 sm:px-8 md:px-12">
+   <div className="flex flex-col md:flex-row w-full mt-20 md:mt-30 items-center justify-center gap-6 md:gap-8 px-6 sm:px-8 md:px-12">
   {/* image section */}
   <div className="w-full md:w-1/2 flex justify-center">
     <Image
