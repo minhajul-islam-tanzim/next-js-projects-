@@ -9,12 +9,14 @@ const HeroButtons = () => {
 
   return (
     <div className="flex gap-3 sm:gap-4 mt-6">
+      <Link href={'global-Img'}>
   <button
     
     className="px-3 sm:px-5 md:px-3 py-1.5 sm:py-2 text-xs sm:text-sm md:text-base bg-blue-800 text-white rounded-md font-semibold hover:bg-blue-900 transition-colors cursor-pointer"
-  >
+    >
     View my work
   </button>
+    </Link>
 
 
 <Link href={'contact'}>
