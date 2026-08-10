@@ -18,7 +18,7 @@ import { FaFacebook, FaInstagram, FaGithub } from "react-icons/fa";
 const links = [
   { url: '/', title: 'Home' },
   { url: '/about', title: 'About' },
-  { url: '/protfolio', title: 'Protfolio' },
+  { url: '/global-Img', title: 'Global Images' },
   { url: '/contact', title: 'Contact' },
 ];
 

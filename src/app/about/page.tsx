@@ -64,16 +64,11 @@ const BioSection = () => {
         <h1 className="text-3xl font-bold">About Tanzim</h1>
 
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium,
-          iusto dolores? Dolorum aspernatur corrupti, quae harum officia sint
-          aperiam expedita asperiores nihil consequuntur tempora corporis
-          sequi. Maxime voluptatibus veritatis minus, fugiat perspiciatis
-          vitae explicabo et est nulla! Nesciunt at sunt debitis dolore
-          ducimus saepe. Mollitia aspernatur vel adipisci id qui!
+         Hi, I'm Tanzim, a Web Developer with a strong passion for the JavaScript ecosystem. My main focus is on modern web development using Next.js to build scalable and high-performance applications. I enjoy writing clean, maintainable code and solving challenging problems to create seamless digital experiences. Always eager to learn new technologies and improve my craft!
         </p>
 
         <span>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi, dolor?
+        I'm usually exploring new tech trends and finding ways to optimize user experiences.
         </span>
 
         <Signature />

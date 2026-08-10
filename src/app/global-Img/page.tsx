@@ -1,8 +1,10 @@
+import ImaSearch from "@/components/ImaSearch"
 
 const Protfoliopage = () => {
   return (
     <div>
-      protfolio page
+     
+<ImaSearch></ImaSearch>
     </div>
   )
 }
